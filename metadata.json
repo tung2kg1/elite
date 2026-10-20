@@ -1,0 +1,8 @@
+{
+  "name": "Remix PHS C360",
+  "description": "A green-themed SaaS admin dashboard featuring a sidebar and comprehensive management tools as per technical specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
